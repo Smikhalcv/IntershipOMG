@@ -1,0 +1,14 @@
+D:\OMG\Intership2\IntershipOMG\BracketSequence\bin\Debug\netcoreapp3.1\BracketSequence.exe
+D:\OMG\Intership2\IntershipOMG\BracketSequence\bin\Debug\netcoreapp3.1\BracketSequence.deps.json
+D:\OMG\Intership2\IntershipOMG\BracketSequence\bin\Debug\netcoreapp3.1\BracketSequence.runtimeconfig.json
+D:\OMG\Intership2\IntershipOMG\BracketSequence\bin\Debug\netcoreapp3.1\BracketSequence.runtimeconfig.dev.json
+D:\OMG\Intership2\IntershipOMG\BracketSequence\bin\Debug\netcoreapp3.1\BracketSequence.dll
+D:\OMG\Intership2\IntershipOMG\BracketSequence\bin\Debug\netcoreapp3.1\BracketSequence.pdb
+D:\OMG\Intership2\IntershipOMG\BracketSequence\obj\Debug\netcoreapp3.1\BracketSequence.csproj.AssemblyReference.cache
+D:\OMG\Intership2\IntershipOMG\BracketSequence\obj\Debug\netcoreapp3.1\BracketSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\OMG\Intership2\IntershipOMG\BracketSequence\obj\Debug\netcoreapp3.1\BracketSequence.AssemblyInfoInputs.cache
+D:\OMG\Intership2\IntershipOMG\BracketSequence\obj\Debug\netcoreapp3.1\BracketSequence.AssemblyInfo.cs
+D:\OMG\Intership2\IntershipOMG\BracketSequence\obj\Debug\netcoreapp3.1\BracketSequence.csproj.CoreCompileInputs.cache
+D:\OMG\Intership2\IntershipOMG\BracketSequence\obj\Debug\netcoreapp3.1\BracketSequence.dll
+D:\OMG\Intership2\IntershipOMG\BracketSequence\obj\Debug\netcoreapp3.1\BracketSequence.pdb
+D:\OMG\Intership2\IntershipOMG\BracketSequence\obj\Debug\netcoreapp3.1\BracketSequence.genruntimeconfig.cache

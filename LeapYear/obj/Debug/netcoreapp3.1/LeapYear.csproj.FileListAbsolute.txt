@@ -1,0 +1,14 @@
+D:\OMG\Intership2\IntershipOMG\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+D:\OMG\Intership2\IntershipOMG\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+D:\OMG\Intership2\IntershipOMG\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+D:\OMG\Intership2\IntershipOMG\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+D:\OMG\Intership2\IntershipOMG\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+D:\OMG\Intership2\IntershipOMG\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+D:\OMG\Intership2\IntershipOMG\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.AssemblyReference.cache
+D:\OMG\Intership2\IntershipOMG\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\OMG\Intership2\IntershipOMG\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+D:\OMG\Intership2\IntershipOMG\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+D:\OMG\Intership2\IntershipOMG\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+D:\OMG\Intership2\IntershipOMG\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+D:\OMG\Intership2\IntershipOMG\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
+D:\OMG\Intership2\IntershipOMG\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\OMG\Intership2\IntershipOMG\Polindrome\bin\Debug\netcoreapp3.1\Polindrome.exe
+D:\OMG\Intership2\IntershipOMG\Polindrome\bin\Debug\netcoreapp3.1\Polindrome.deps.json
+D:\OMG\Intership2\IntershipOMG\Polindrome\bin\Debug\netcoreapp3.1\Polindrome.runtimeconfig.json
+D:\OMG\Intership2\IntershipOMG\Polindrome\bin\Debug\netcoreapp3.1\Polindrome.runtimeconfig.dev.json
+D:\OMG\Intership2\IntershipOMG\Polindrome\bin\Debug\netcoreapp3.1\Polindrome.dll
+D:\OMG\Intership2\IntershipOMG\Polindrome\bin\Debug\netcoreapp3.1\Polindrome.pdb
+D:\OMG\Intership2\IntershipOMG\Polindrome\obj\Debug\netcoreapp3.1\Polindrome.csproj.AssemblyReference.cache
+D:\OMG\Intership2\IntershipOMG\Polindrome\obj\Debug\netcoreapp3.1\Polindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\OMG\Intership2\IntershipOMG\Polindrome\obj\Debug\netcoreapp3.1\Polindrome.AssemblyInfoInputs.cache
+D:\OMG\Intership2\IntershipOMG\Polindrome\obj\Debug\netcoreapp3.1\Polindrome.AssemblyInfo.cs
+D:\OMG\Intership2\IntershipOMG\Polindrome\obj\Debug\netcoreapp3.1\Polindrome.csproj.CoreCompileInputs.cache
+D:\OMG\Intership2\IntershipOMG\Polindrome\obj\Debug\netcoreapp3.1\Polindrome.dll
+D:\OMG\Intership2\IntershipOMG\Polindrome\obj\Debug\netcoreapp3.1\Polindrome.pdb
+D:\OMG\Intership2\IntershipOMG\Polindrome\obj\Debug\netcoreapp3.1\Polindrome.genruntimeconfig.cache

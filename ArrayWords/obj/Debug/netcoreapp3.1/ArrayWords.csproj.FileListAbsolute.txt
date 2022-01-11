@@ -1,0 +1,14 @@
+D:\OMG\Intership2\IntershipOMG\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.exe
+D:\OMG\Intership2\IntershipOMG\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.deps.json
+D:\OMG\Intership2\IntershipOMG\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.runtimeconfig.json
+D:\OMG\Intership2\IntershipOMG\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.runtimeconfig.dev.json
+D:\OMG\Intership2\IntershipOMG\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.dll
+D:\OMG\Intership2\IntershipOMG\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.pdb
+D:\OMG\Intership2\IntershipOMG\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.csproj.AssemblyReference.cache
+D:\OMG\Intership2\IntershipOMG\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\OMG\Intership2\IntershipOMG\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.AssemblyInfoInputs.cache
+D:\OMG\Intership2\IntershipOMG\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.AssemblyInfo.cs
+D:\OMG\Intership2\IntershipOMG\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.csproj.CoreCompileInputs.cache
+D:\OMG\Intership2\IntershipOMG\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.dll
+D:\OMG\Intership2\IntershipOMG\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.pdb
+D:\OMG\Intership2\IntershipOMG\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.genruntimeconfig.cache
